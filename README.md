@@ -1,5 +1,7 @@
 # Hi! I'm koralle
 
+<img src="https://me.koralle-mgmg.com/images/ogp-card.webp" />
+
 ## I'm interested in
 
 ### Browsers
